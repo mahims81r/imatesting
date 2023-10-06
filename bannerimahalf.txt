@@ -23,10 +23,9 @@
                 <Creative id="2">
                     <CompanionAds>
                         <Companion width="300" height="250">
-                            <!-- <StaticResource creativeType="image/jpeg">
-                                <![CDATA[https://s.saavn.com/ads/2019/cdnmaster/GUveD010319133530_BASMEIN_BB_600x500.jpg]]>
+                            <StaticResource creativeType="image/jpeg">
+                                <![CDATA[https://s.saavn.com/ads/2019/cdnmaster/GUveD010319133530_BASMEIN_BB_600x50012.jpg]]>
                             </StaticResource>
-                            -->
                         </Companion>
                     </CompanionAds>
                 </Creative>
